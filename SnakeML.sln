@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SnakeML", "SnakeML\SnakeML.csproj", "{EFC8E0A6-F479-407C-8213-3C5908A36165}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeMLDesktop", "SnakeMLDesktop\SnakeMLDesktop.csproj", "{6BE09B0E-6048-4411-9B6B-FCAA780B6FB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFC8E0A6-F479-407C-8213-3C5908A36165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFC8E0A6-F479-407C-8213-3C5908A36165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFC8E0A6-F479-407C-8213-3C5908A36165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFC8E0A6-F479-407C-8213-3C5908A36165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BE09B0E-6048-4411-9B6B-FCAA780B6FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE09B0E-6048-4411-9B6B-FCAA780B6FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE09B0E-6048-4411-9B6B-FCAA780B6FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE09B0E-6048-4411-9B6B-FCAA780B6FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C70CE3E-49DD-4E04-85F1-3F569D60D51A}
+	EndGlobalSection
+EndGlobal
